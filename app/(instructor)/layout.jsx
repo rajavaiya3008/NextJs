@@ -1,6 +1,6 @@
 'use client'
 
-import { getCurrUserRole } from "@/utils/getToken";
+import { getCurrUserRole } from "@/utils/getUser";
 import { useRouter } from "next/navigation";
 import React, { useLayoutEffect } from "react";
 
